@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">E_safe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="informasi_terpecaya">Informasi Terpecaya</string>
+    <string name="nastre">E-Safe hadir dengan fitur informasi.
+    Di fitur ini terdapat informasi terpecaya seputar
+    covid di dunia.</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="kdd">Konsultasi Dengan Doker</string>
+    <string name="koneslua">E-Safe hadir dengan fitur konsultasi.
+        Di fitur ini pasien bisa berkonsultasi
+        seputar gejala corona virus.</string>
+    <string name="liss">E-Safe hadir dengan fitur pemesanan dan
+        pembayaran swab ataupun rapid sehingga tidak 
+        menunggu sebelum tes.</string>
+    <string name="hasde">Coba Sekarang</string>
+    <string name="sss">Nikmati dan rasakan dari fitur dari E-safe  </string>
+</resources>
